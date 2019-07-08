@@ -1,0 +1,9 @@
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\bin\Release\BasicSynthesizer.exe.config
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\bin\Release\BasicSynthesizer.exe
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\bin\Release\BasicSynthesizer.pdb
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\obj\Release\BasicSynthesizer.Synth.resources
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\obj\Release\BasicSynthesizer.Properties.Resources.resources
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\obj\Release\BasicSynthesizer.csproj.GenerateResource.cache
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\obj\Release\BasicSynthesizer.csproj.CoreCompileInputs.cache
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\obj\Release\BasicSynthesizer.exe
+Q:\Dokumenty\Piter\III ROK\BasicSynthesizer\BasicSynthesizer\obj\Release\BasicSynthesizer.pdb
